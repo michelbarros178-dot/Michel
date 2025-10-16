@@ -30,7 +30,7 @@ Mi objetivo es seguir creciendo en el campo del desarrollo web, fortaleciendo mi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michelbarros178-dot&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=michelbarros178-dot&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?username=michelbarros178-dot&theme=tokyonight)
 
 ---
 
