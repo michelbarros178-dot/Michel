@@ -26,11 +26,11 @@ Mi objetivo es seguir creciendo en el campo del desarrollo web, fortaleciendo mi
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelle&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelbarros178-dot&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michelbarros178-dot&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Michelle&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=michelbarros178-dot&theme=tokyonight)
 
 ---
 
@@ -50,27 +50,9 @@ Mi objetivo es seguir creciendo en el campo del desarrollo web, fortaleciendo mi
 - [**api-rest-php**](https://github.com/tu-usuario/api-rest-php)  
   API RESTful construida en PHP para servir datos de usuarios y productos, con autenticación básica y documentación. Ideal para conectar con frontends o apps móviles. (PHP, MySQL, Postman)
 
-> Si quieres, puedo:
-> - Reescribir las descripciones según el contenido real de tus repos.
-> - Generar una sección con **technologies badges** y **screenshots** por proyecto.
-> - Extraer automáticamente tus repos reales y rellenar esta sección (si me das tu usuario de GitHub).
-
----
 
 ### 📫 Contacto
 
-- 💼 [GitHub](https://github.com/tu-usuario)  
-- ✉️ michelbarros@example.com  
-- 🌎 [Portafolio personal](https://tu-portafolio.com)
-
----
-
-> “La tecnología es más poderosa cuando conecta a las personas y transforma ideas en realidad.”  
-> — *Michel Barros*
-
-
----
-
-> “La tecnología es más poderosa cuando conecta a las personas y transforma ideas en realidad.”  
-> — *Michel Barros*
+- 💼 [GitHub](https://github.com/michelbarros178-dot)  
+- ✉️ michelbarros178@gmail.com  
 
